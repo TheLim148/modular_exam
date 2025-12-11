@@ -1,0 +1,32 @@
+# Office lock files
+~$*.docx
+~$*.xlsx
+*.tmp
+*.bak
+
+# Vim / Neovim swap
+*.swp
+*.swo
+*.swx
+
+# macOS
+.DS_Store
+
+# Linux trash / temp
+.Trash*
+*.part
+*.kate-swp
+
+# VSCode settings (если не нужны)
+.vscode/
+
+# PlantUML temporary output
+*.png.cache
+*.plantuml.cache
+
+# JetBrains (на всякий случай)
+.idea/
+
+# System files
+Thumbs.db
+
