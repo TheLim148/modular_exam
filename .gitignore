@@ -4,6 +4,9 @@
 *.tmp
 *.bak
 
+# LibreOffice / OpenOffice lock files
+.~lock.*#
+
 # Vim / Neovim swap
 *.swp
 *.swo
